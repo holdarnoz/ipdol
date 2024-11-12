@@ -1,0 +1,1 @@
+const integerPart = value / divisor;
